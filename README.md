@@ -1,4 +1,4 @@
-# Physics-Informed Trajectory Prediction (ECE 228 Final Project)
+# Physics-Informed Motion Planner (ECE 228 Final Project)
 
 This repository contains the code for our ECE 228 final project (Track 2), where we explore the use of Physics-Informed Neural Networks (PINNs) for trajectory prediction in autonomous driving. The model is trained and evaluated on the Lyft Level 5 Prediction Dataset.
 
